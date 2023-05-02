@@ -16,6 +16,12 @@
         android:textColor="#cddc39"
         android:textStyle="italic|bold"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnMainActivity2"
+        android:text="Move to Activity" />
+
 
 
 </LinearLayout>
